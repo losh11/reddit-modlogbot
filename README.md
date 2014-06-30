@@ -1,7 +1,7 @@
 reddit-modlogbot
 ================
 
-A simple bot to publish a public moderation log to a wiki page on Reddit. Created by /u/edfaz. 
+A simple bot to publish a public moderation log to a wiki page on Reddit.
 
 #Instructions
 1. Download this repository or clone it via git. 
